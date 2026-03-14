@@ -1,3 +1,4 @@
 title: RTAphone
 description: ระบบโทรศัพท์ออนไลน์ กองทัพบก
 theme: jekyll-theme-cayman
+include: ["license.md"]
