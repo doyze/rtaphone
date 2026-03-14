@@ -1,3 +1,5 @@
+---
+---
 <p align="center"><img src="images/rta_emblem_512.png" alt="กองทัพบก" width="100"></p>
 
 # นโยบายความเป็นส่วนตัว (Privacy Policy)
